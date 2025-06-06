@@ -13,6 +13,8 @@ This Movie Review App, fetches data about various popular movies and dynamically
 #### Key Features
 The App allows users to fetch a list of popular movies from the Movie Database, read key details about each movie, and visit that movie's page on the database for more information. Alongside this the app allows users to filter movies based on a minimum review value that they want to see. 
 
+![image](https://github.com/user-attachments/assets/5d303a6a-d1e6-4743-bd8f-743b55082f73)
+
 
 #### Components and utilities breakdown
 - FilterMovies - Simple component that returns a customisable filter block. It returns a list of buttons allowing the user to filter the movies displayed by minimum rating.
